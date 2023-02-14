@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-14T09:23:26.484346500Z</date>
+  <millis>1676366606484</millis>
+  <nanos>346500</nanos>
+  <sequence>0</sequence>
+  <logger>task5</logger>
+  <level>WARNING</level>
+  <class>task5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>�������� �����������</message>
+  <param>UTF-8</param>
+</record>
+<record>
+  <date>2023-02-14T09:23:26.550167700Z</date>
+  <millis>1676366606550</millis>
+  <nanos>167700</nanos>
+  <sequence>1</sequence>
+  <logger>task5</logger>
+  <level>INFO</level>
+  <class>task5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>�������� �����������</message>
+</record>
+</log>
