@@ -1,8 +1,4 @@
 import java.io.File;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-
 
 /**
  * Напишите метод, который определит тип (расширение) файлов из 
@@ -21,8 +17,6 @@ public class task6 {
     }
     static void folderContains(String pathName) {
         final File folder = new File(pathName);
-        List<String> list = new ArrayList<String>();
-
         for (final File file : folder.listFiles()) {
             String name = file.getName();
             System.out.println(name);          
